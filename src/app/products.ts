@@ -18,6 +18,11 @@ export const products = [
     name: 'Celular',
     price: 1999,
     description: 'Telefon vechi'
+  },
+  {
+    name: 'Celular2',
+    price: 1998,
+    description: 'Telefon vechi2'
   }
 ];
 
